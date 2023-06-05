@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">711_assign1</string>
+    <string name="student_profile">Student Profile Activity</string>
+
+    <string name="sts_name">name</string>
+    <string name="address">address</string>
+    <string name="profession">profession</string>
+    <string name="dream_job">dream job</string>
+    <string name="fav_food">favourite food</string>
+
+</resources>
